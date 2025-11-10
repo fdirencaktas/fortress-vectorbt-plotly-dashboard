@@ -99,7 +99,7 @@ python fortress_vectorbt_plotly.py
 
 ## 🏁 Author
 
-**Fikri Direnc Aktas** — Quant Developer | Systematic Trader
+**Fikri Direnç Aktaş** — Quant Developer | Systematic Trader
 📧 [Direncak2@gmail.com] | 🌐 [[LinkedIn Profile](https://www.linkedin.com/in/direncaktas/)] | 
 
 
