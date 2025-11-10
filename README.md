@@ -35,8 +35,12 @@ and visualizes results through **interactive equity and drawdown charts**.
 ---
 ## 🖼️ Sample Result
 Equity Curves:
+
+
 ![Equity Curves](results/Equity_Curves.png)
 Drawdowns:
+
+
 ![Drawdowns](results/Drawdowns.png)
 
 
