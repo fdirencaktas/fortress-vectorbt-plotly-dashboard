@@ -38,9 +38,9 @@ Equity Curves:
 
 
 ![Equity Curves](results/Equity_Curves.png)
+
+
 Drawdowns:
-
-
 
 
 
