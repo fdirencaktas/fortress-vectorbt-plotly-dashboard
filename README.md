@@ -33,8 +33,18 @@ and visualizes results through **interactive equity and drawdown charts**.
 **Focus Areas:** Systematic Trading · Backtesting · Quantitative Research
 
 ---
+## 🖼️ Sample Result
+Equity Curves:
+![Equity Curves](results/Equity_Curves.png)
+Drawdowns:
+![Drawdowns](results/Drawdowns.png)
+EMA Crossover:
+![EMA Crossover](results/EMA Crossover.png)
+RSI Strategy:
+![RSI Strategy](results/RSI Strategy.png)
 
-## 📈 Example Output
+---
+## 📈 Example CSV Output
 
 | Strategy      | Total Return | Max Drawdown | Sharpe | Sortino | Calmar |
 | ------------- | ------------ | ------------ | ------ | ------- | ------ |
@@ -42,7 +52,6 @@ and visualizes results through **interactive equity and drawdown charts**.
 | RSI Strategy  | XX%          | XX%          | X.XX   | X.XX    | X.XX   |
 | Buy & Hold    | XX%          | XX%          | X.XX   | X.XX    | X.XX   |
 
-*Interactive Plotly charts display each strategy’s equity curve and drawdowns.*
 
 ---
 
