@@ -1,0 +1,5 @@
+pandas
+vectorbt
+plotly
+yfinance
+numpy
