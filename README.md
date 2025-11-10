@@ -39,8 +39,16 @@ Equity Curves:
 Drawdowns:
 ![Drawdowns](results/Drawdowns.png)
 
+
+
+
 EMA Crossover:
 ![EMA Crossover](results/EMA_Crossover.png)
+
+
+
+
+
 
 RSI Strategy:
 ![RSI Strategy](results/RSI_Strategy.png)
