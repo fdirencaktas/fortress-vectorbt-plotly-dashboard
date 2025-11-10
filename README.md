@@ -39,9 +39,9 @@ Equity Curves:
 Drawdowns:
 ![Drawdowns](results/Drawdowns.png)
 EMA Crossover:
-![EMA Crossover](results/EMACrossover.png)
+![EMA Crossover](results/EMA_Crossover.png)
 RSI Strategy:
-![RSI Strategy](results/RSIStrategy.png)
+![RSI Strategy](results/RSI_Strategy.png)
 
 ---
 ## 📈 Example CSV Output
