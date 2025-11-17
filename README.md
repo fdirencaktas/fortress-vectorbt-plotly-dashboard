@@ -87,7 +87,7 @@ pip install vectorbt plotly pandas yfinance pandas-ta
 ### 2️⃣ Run the script
 
 ```bash
-python fortress_vectorbt_plotly.py
+python src/fortress_vectorbt_plotly.py
 ```
 
 ### 3️⃣ View results
